@@ -1,0 +1,11 @@
+{
+  "name": "知茗茶道",
+  "short_name": "知茗茶道",
+  "package_name": "com.zhimingchadao.app",
+  "version": "v1.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#182B24",
+  "theme_color": "#182B24",
+  "description": "纯前端、全离线可用的中国茶文化全维度百科与茶艺冲泡实操APP"
+}
