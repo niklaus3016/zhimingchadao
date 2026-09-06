@@ -30,3 +30,9 @@ Thumbs.db
 # Env
 .env
 .env.local
+
+# Signing keystores (never commit)
+*.keystore
+*.jks
+my-release-key.*
+android/my-release-key.keystore
